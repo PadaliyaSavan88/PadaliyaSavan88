@@ -34,8 +34,8 @@ I'm a highly motivated and enthusiastic Full Stack Blockchain Developer with a p
 - Passionate about staying updated with the latest developments in the blockchain industry
 
 ## Let's Connect!
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/savanpadaliya/)
-- GitHub: [Your GitHub Profile](https://github.com/PadaliyaSavan88)
-- Twitter: [Your Twitter Profile](https://twitter.com/padaliya_savan)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/savanpadaliya/)
+- GitHub: [GitHub Profile](https://github.com/PadaliyaSavan88)
+- Twitter: [Twitter Profile](https://twitter.com/padaliya_savan)
 
 I'm excited about the opportunity to work on new and innovative projects in this rapidly growing field. Feel free to reach out and connect!
