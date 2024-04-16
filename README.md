@@ -5,7 +5,7 @@ I'm a highly motivated and enthusiastic Full Stack Blockchain Developer with a p
 ## About Me
 - 💼 Specializing in Full Stack Blockchain Development and AWS Cloud
 - 🌱 Constantly exploring and experimenting with new technologies and approaches
-- 👯 Organizing community events as a GDG Rajkot Organizer
+- 👯 Organizing community events as a GDG Rajkot core team member
 
 ## Skills
 - **Languages:** JavaScript
