@@ -1,6 +1,6 @@
 # Hi there, I'm Savan Padaliya! 👋
 
-I'm a highly motivated and enthusiastic Full Stack Blockchain Developer with a passion for driving digital transformation and community empowerment. Currently, I specialize in Full Stack Blockchain Development, AWS Cloud, and organizing community events as a GDG Rajkot Organizer.
+I'm a highly motivated and enthusiastic Full Stack Blockchain Developer with a passion for driving digital transformation and community empowerment. Currently, I specialize in Full Stack Blockchain Development, AWS Cloud, and organizing community events as a GDG Rajkot core team member.
 
 ## About Me
 - 💼 Specializing in Full Stack Blockchain Development and AWS Cloud
